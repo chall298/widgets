@@ -1,7 +1,7 @@
 import React from 'react';
 import Accordion from './components/Accordion'
 import Search from './components/Search'
-console.log('Hey')
+console.log('testing')
 const items = [
     {
         title: 'What is React?',
